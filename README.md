@@ -5,3 +5,5 @@ Reposotorio de teste
 
 Esta é uma seção nova
 Novo texto
+
+Nova linha
